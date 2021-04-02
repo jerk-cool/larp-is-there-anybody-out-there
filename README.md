@@ -46,13 +46,12 @@ Během hry lze pro zvyšení zážitku dopomáhat různými technickými triky (
 
 Během hry Hacker může (vystupuje jako ten vědec):
 
+ * ovládat klávesnici a myš
  * blokovat ovládání počítače (při dobré volbě modelu nepůjde počítač ani vypnout) - aby účastníci mohli psát, jen když se to po nich chce a nerozbíjeli hru
  * používat webkameru a mikrofon počítače - aby měl Hacker přehled o dění
  * používat zvuk počítače - aby mohl komunikovat s hráči voice to voice
  * použít např. sestříhané video úryvky Hawkinga a zobrazit je jako video, když zrovna Herec mluví - pro dojem, že "tam někdo je" a dochází k nějakému přenosu videa.
  * posílat sms účastníkům na mobil z počítače, pokud by to snad příběh vyžadoval
- * otevírat před účastníky libovolné aplikace, používat internetový prohlížeč, dělat vše, co lze na notebooku dělat fyzicky
- * v případě nedostatečné motivace účastníků může Hacker nabídnout finanční odměnu za oběť, Moderátor nabídne svůj účet, protože "je to bezpečnější, kdyby šlo o podraz". Hacker řekne, že peníze poslal a jako důkaz se v internetovém prohlížeči přihlásí do internet bankingu Moderátora - jakože se mu tam hacknul - a ukáže, že částka dorazila. Ve skutečnosti jde o fakovou webovou stránku, která vypadá na chlup stejně jako prostřední konkrétního internet bankingu
  * mělo by být možné zkreslit Hercův hlas, aby zněl víc strojově.
  * __zde bude vhodné doplnit další věci, co by bylo hezké udělat, aby vše vypadalo reálněji__
 
@@ -61,7 +60,7 @@ Během hry Hacker může (vystupuje jako ten vědec):
 Pro technické zázemí je potřeba připravit toto
 
  * Moderátor musí mít notebook s Linuxem (nejlépe s DEB distribucí - Debian, Ubuntu, Linux Mint, Elementary OS,..., ale šlo by to i s jinými)
- * Na notebooku musí být nainstalované `xdotools` a případně `vnc viewer` - ten je nepovinný, ale značně urychlí reakci Hackera na situace
+ * Na notebooku musí být nainstalované `xdotool` a případně `vnc viewer` - ten je nepovinný, ale značně urychlí reakci Hackera na situace
  * Na notebooku musí být aktivní ssh server, který poslouchá na portu smluveném s Hackerem a akceptuje jeho veřejný klíč
  * všechny potřebné aplikace pro emulaci intro konzole, videa a fakového internet bankingu jsou pro jednoduchost dopředu uloženy na notebooku
  * Hacker má u sebe připravené všechny nástroje a drobné scripty pro usnadnění práce
