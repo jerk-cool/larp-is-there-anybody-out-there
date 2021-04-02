@@ -21,7 +21,7 @@ Moderátor společně s účastníky mají u sebe notebook, ze kterého k nim za
  * Hacker zajistí, že dostává z notebooku obraz i zvuk - tak má přehled, co se děje v místnosti.
  * (Moderátor ve věci hackování nedělá nic, vše je na Hackerovi)
  * Moderátor začne promítat prezentaci fiktivního larpu, když náhle vše shasne do černa, v levém horním rohu začne blikat zelený kurzor - o to se postará vzdáleně Hacker.
- * V tuto chvíli je ovládání počítače zablokované (nelze ovládat klávesnici ani myš, při vhodně zvoleném modelu notebooku nepůjde ani vypnout počítač) - o to vše se postará vzdáleně Hacker.
+ * V tuto chvíli je ovládání počítače zablokované (nelze ovládat klávesnici ani myš, nepůjde ani natvrdo vypnout počítač) - o to vše se postará vzdáleně Hacker.
  * Po krátké chvíli se kurzor rozhýbe a začnou se psát písmena - objeví se konzolový nápis "Is there anybody out there?"
  * Hacker odblokuje klávesnici, aby účastníci mohli psát.
  * Moderátor rozdmýchá atmosféru, je samozřejmě stejně překvapený jako všichni ostatní, pokouší se ovládat počítač pomocí různých kláves a myší (třeba mu i účastníci něco poradí), aby ukázal, že to není pod jeho kontrolou. Může se rozjet diskuze co teď. Jejím závěrem by mělo být, že se na konzoli účastníci odpoví.
@@ -47,7 +47,7 @@ Během hry lze pro zvyšení zážitku dopomáhat různými technickými triky (
 Během hry Hacker může (vystupuje jako ten vědec):
 
  * ovládat klávesnici a myš
- * blokovat ovládání počítače (při dobré volbě modelu nepůjde počítač ani vypnout) - aby účastníci mohli psát, jen když se to po nich chce a nerozbíjeli hru
+ * blokovat ovládání počítače (počítač nepůjde ani natvrdo vypnout) - aby účastníci mohli psát, jen když se to po nich chce a nerozbíjeli hru
  * používat webkameru a mikrofon počítače - aby měl Hacker přehled o dění
  * používat zvuk počítače - aby mohl komunikovat s hráči voice to voice
  * použít např. sestříhané video úryvky Hawkinga a zobrazit je jako video, když zrovna Herec mluví - pro dojem, že "tam někdo je" a dochází k nějakému přenosu videa.
